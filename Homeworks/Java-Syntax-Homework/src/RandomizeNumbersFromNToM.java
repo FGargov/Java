@@ -1,4 +1,4 @@
-import java.util.Random;
+a12312312import java.util.Random;
 import java.util.Scanner;
 
 public class RandomizeNumbersFromNToM {
